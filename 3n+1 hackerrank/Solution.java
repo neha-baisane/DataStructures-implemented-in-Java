@@ -17,7 +17,7 @@ public class Solution {
          count++;
      }
          
-     };
+     }
         
     System.out.println(count);
     
